@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "sdDin4FeX/NM2ccx4Ux2Dv5Y9OImMqrHCMdWLIjhEGZ+XAwCAFshjg6geJa3Qegu8C5Nq1E2zIbo5vc1Eq36WQ==",
+  "success": true,
+  "projectFilePath": "/home/ljhvvs/workspace/angular-tutorials-backend/angular-tutorials-backend.csproj",
+  "expectedPackageFiles": [
+    "/home/ljhvvs/.nuget/packages/microsoft.aspnetcore.openapi/8.0.15/microsoft.aspnetcore.openapi.8.0.15.nupkg.sha512",
+    "/home/ljhvvs/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/ljhvvs/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/home/ljhvvs/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/home/ljhvvs/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/home/ljhvvs/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/home/ljhvvs/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}

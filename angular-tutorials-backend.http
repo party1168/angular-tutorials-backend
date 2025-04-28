@@ -1,0 +1,6 @@
+@angular_tutorials_backend_HostAddress = http://localhost:5067
+
+GET {{angular_tutorials_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
