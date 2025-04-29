@@ -31,3 +31,4 @@
 /home/ljhvvs/workspace/angular-tutorials-backend/obj/Debug/net8.0/angular-tutorials-backend.pdb
 /home/ljhvvs/workspace/angular-tutorials-backend/obj/Debug/net8.0/angular-tutorials-backend.genruntimeconfig.cache
 /home/ljhvvs/workspace/angular-tutorials-backend/obj/Debug/net8.0/ref/angular-tutorials-backend.dll
+/home/ljhvvs/workspace/angular-tutorials-backend/obj/Debug/net8.0/angular-tutorials-backend.sourcelink.json
