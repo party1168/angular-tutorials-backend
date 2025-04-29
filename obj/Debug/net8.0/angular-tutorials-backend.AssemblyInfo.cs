@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("angular-tutorials-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7ed8acb9ae22845aa84b0df411d04ae6640ac2a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a093fd52673cc96fbe771099ceafccd50eac46fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("angular-tutorials-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("angular-tutorials-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
